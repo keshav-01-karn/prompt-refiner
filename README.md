@@ -25,15 +25,13 @@ Explain the causes, impacts, and potential solutions for climate change in a cle
 
 
 ## Tech Stack
-
 - Python
 - Gradio
 - Gemini API
 - python-dotenv
 
 ## Use Cases
-
--Learning prompt engineering
--Improving prompts before sending them to AI models
--Experimenting with prompt optimization
--Understanding how prompt structure affects LLM outputs
+- Learning prompt engineering
+- Improving prompts before sending them to AI models
+- Experimenting with prompt optimization
+- Understanding how prompt structure affects LLM outputs
