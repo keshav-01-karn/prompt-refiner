@@ -37,5 +37,3 @@ Explain the causes, impacts, and potential solutions for climate change in a cle
 -Improving prompts before sending them to AI models
 -Experimenting with prompt optimization
 -Understanding how prompt structure affects LLM outputs
-
-
