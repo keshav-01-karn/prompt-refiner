@@ -1,14 +1,14 @@
-# 🚀 Prompt Refiner – AI Prompt Optimization Tool
+#  Prompt Refiner – AI Prompt Optimization Tool
 
-## 🎯 Live Demo
+##  Live Demo
 
-👉 **Try it here:** https://huggingface.co/spaces/karn-keshav/prompt-refiner
+ **Try it here:** https://huggingface.co/spaces/karn-keshav/prompt-refiner
 
 
 
 ---
 
-## ✨ Overview
+##  Overview
 
 **Prompt Refiner** is an AI-powered web tool that transforms **vague or basic prompts** into **clear, structured, and optimized prompts** for better responses from large language models.
 
@@ -29,7 +29,7 @@ It applies **prompt engineering techniques automatically**, helping users get hi
 
 ---
 
-## 🖼️ Preview
+##  Preview
 
 ![App Preview](Preview.png)
 
@@ -46,7 +46,7 @@ It applies **prompt engineering techniques automatically**, helping users get hi
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️. Clone the Repository
 ### 2️. Install Dependencies
@@ -55,7 +55,7 @@ It applies **prompt engineering techniques automatically**, helping users get hi
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 - Learning prompt engineering
 - Improving prompts before sending to AI models
 - Experimenting with prompt optimization
